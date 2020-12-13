@@ -1,0 +1,19 @@
+{
+  "name": "jetbrainsmono",
+  "version": "1.0.0",
+  "description": "JetBrains Mono typeface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonya/JetBrainsMono.git"
+  },
+  "author": "JetBrains",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/Leonya/JetBrainsMono/issues"
+  },
+  "homepage": "https://github.com/Leonya/JetBrainsMono#readme"
+}
